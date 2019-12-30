@@ -60,7 +60,7 @@
 ​       本次实验采用Google的colab环境，收敛速度很快，训练集上的准确度很快到达了97%以上，然后在测试数据上的F1、Precision、Recall 也能达到95%以上
 
 ![](https://i.loli.net/2019/12/30/uGAcjUC2LEerT3H.png)
-
+![](https://i.loli.net/2019/12/30/HOaUbpfBWZ4JP86.png)
 
 评价函数的实现和测试数据上的结果
 
