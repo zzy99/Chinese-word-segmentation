@@ -61,7 +61,6 @@
 
 ![](https://i.loli.net/2019/12/30/uGAcjUC2LEerT3H.png)
 
-![img](file:///C:/Users/80431/AppData/Local/Temp/msohtmlclip1/01/clip_image009.png)
 
 评价函数的实现和测试数据上的结果
 
